@@ -1,2 +1,2 @@
 # otzaria-library
-the library for otzaria app, with the scripts that created it
+מאגר הספרים של תוכנת אוצריא, לפני סינון ספרי הראי"ה קוק, הרב שטיינזלץ, וכדו'. כמו כן, אני ממשיך לעדכן אותו עם עוד ספרים.
